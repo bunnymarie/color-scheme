@@ -1,5 +1,28 @@
 body {
   text-align: center;
+  background-color: #8e8ecc;
+  color: #f8eeff;
+}
+
+.one {
+  color: #fbf3f3;
+  background-color: #87dade;
+  border-style: double;
+  border-color: #365758;
+}
+
+.two {
+  color: #fbf3f3;
+  background-color: #6caeb1;
+  border-style: double;
+  border-color: #284142;
+}
+
+.three {
+  color: #fbf3f3;
+  background-color: #518285;
+  border-style: double;
+  border-color: #1b2b2c;
 }
 
 .light-background {

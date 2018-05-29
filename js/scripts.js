@@ -7,4 +7,16 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("dark-background");
   });
+  $("p#one").click(function() {
+    $("p").removeClass();
+    $("p#one").addClass("one");
+  });
+  $("p#two").click(function() {
+    $("p").removeClass();
+    $("p#two").addClass("two");
+  });
+  $("p#three").click(function() {
+    $("p").removeClass();
+    $("p#three").addClass("three");
+  });
 });
