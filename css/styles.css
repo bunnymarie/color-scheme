@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.light-background {
+  background-color: #f4f9f9;
+  color: #3d5151;
+}
+
+.dark-background {
+  background-color: #8e8ecc;
+  color: #f8eeff;
+}
